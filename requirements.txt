@@ -1,0 +1,15 @@
+altgraph==0.17
+fbs==0.9.0
+future==0.18.2
+macholib==1.14
+numpy==1.19.2
+pefile==2019.4.18
+Pillow==7.2.0
+PyInstaller==3.4
+PySide2==5.12.0
+pywin32==228
+pywin32-ctypes==0.2.0
+shiboken2==5.12.0
+six==1.15.0
+WMI==1.5.1
+wxPython==4.1.0
