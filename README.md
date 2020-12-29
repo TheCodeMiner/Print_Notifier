@@ -1,5 +1,5 @@
 # Print_Notifier
-A program that pops up a notification window, when defined softwares are lunched (Tested for windows, will probebly work on Linux and Mac too)
+A program that pops up a notification window, when defined softwares are lunched (Tested for windows)
 
 It took me a week to to develop this software.
 I am not publishing the whole code (Because I made the app for a small company),
